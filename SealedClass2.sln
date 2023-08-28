@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealedClass2", "SealedClass2\SealedClass2.csproj", "{32C1EE9A-5E35-4CD8-87C0-096CE0338D38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32C1EE9A-5E35-4CD8-87C0-096CE0338D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C1EE9A-5E35-4CD8-87C0-096CE0338D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C1EE9A-5E35-4CD8-87C0-096CE0338D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C1EE9A-5E35-4CD8-87C0-096CE0338D38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA27F901-5A2D-4E9A-823E-594D9A065294}
+	EndGlobalSection
+EndGlobal
